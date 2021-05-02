@@ -1,9 +1,9 @@
 # Lol-auto-accept
 automaticly accept match, using image recognition
 
-requirements
+### requirements
 
-### python-imagesearch-drov0
+python-imagesearch-drov0
 
 mouse
 
